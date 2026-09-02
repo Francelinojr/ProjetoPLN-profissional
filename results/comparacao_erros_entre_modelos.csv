@@ -1,0 +1,4 @@
+condicao,total_erros_e5_multilingual,total_erros_e5_large_instruct,total_erros_bertimbau_pt,so_e5_multilingual_erra,so_e5_large_instruct_erra,so_bertimbau_pt_erra,erro_nos_tres_modelos
+sem_instrucao,127,103,124,43,23,47,39
+instrucao_manual,143,106,114,61,38,44,30
+instrucao_automatica,136,135,123,28,32,48,48

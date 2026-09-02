@@ -1,0 +1,22 @@
+# Ambientes e caches
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+cache/
+cache-*/
+
+# Dados e artefatos pesados
+data/*.csv
+*.npy
+*.pkl
+
+# Resultados gerados localmente
+results/generated/
+resultados_hatebr*/
+
+# Sistema/IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
